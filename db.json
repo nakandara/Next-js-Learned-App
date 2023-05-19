@@ -1,0 +1,114 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Event 1",
+      "description": "escripton 1",
+      "categroy": "sport",
+      "date": "Aprial 25"
+    },
+    {
+      "id": "2",
+      "title": "Event 1",
+      "description": "escripton 1",
+      "categroy": "technology",
+      "date": "Aprial 25"
+    },
+    {
+      "id": "3",
+      "title": "Event 1",
+      "description": "escripton 1",
+      "categroy": "food",
+      "date": "Aprial 25"
+    },
+    {
+      "id": "4",
+      "title": "Event 1",
+      "description": "escripton 1",
+      "categroy": "sport",
+      "date": "Aprial 25"
+    },
+    {
+      "id": "5",
+      "title": "Event 1",
+      "description": "escripton 1",
+      "categroy": "car",
+      "date": "Aprial 25"
+    },
+    {
+      "id": "6",
+      "title": "Event 1",
+      "description": "escripton 1",
+      "categroy": "car",
+      "date": "Aprial 25"
+    },
+    {
+      "id": "7",
+      "title": "Event 1",
+      "description": "escripton 1",
+      "categroy": "car",
+      "date": "Aprial 25"
+    },
+    {
+      "id": "8",
+      "title": "Event 1",
+      "description": "escripton 1",
+      "categroy": "sport",
+      "date": "Aprial 25"
+    }
+  ],
+  "dashboard": {
+    "posts": 10,
+    "likes": 100,
+    "followers": 20,
+    "following": 50
+  },
+  "news": [
+    {
+      "id": 1,
+      "title": "news Article  1",
+      "description": "Desription 1",
+      "category": "sports"
+    },
+    {
+      "id": 1,
+      "title": "news Article  2",
+      "description": "Desription 2",
+      "category": "dancing"
+    },
+    {
+      "id": 1,
+      "title": "news Article  3",
+      "description": "Desription 3",
+      "category": "musix"
+    },
+    {
+      "id": 1,
+      "title": "news Article  4",
+      "description": "Desription 4",
+      "category": "art"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "product 1",
+      "price": 4000,
+      "description": "Desription 1"
+    },
+    {
+      "id": 2,
+      "title": "product 2",
+      "price": 3000,
+      "description": "Desription 2"
+    },
+    {
+      "id": 3,
+      "title": "product 3",
+      "price": 3000,
+      "description": "Desription 3"
+    }
+  ]
+}
+
+
